@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+
+    background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+    height: 900px;
+    color: white;
+}
+#loca_icon{
+    font-size : 200px ; color: rgb(236, 47, 47);
+    position: absolute;
+    left: 400px;
+    top: 100px;
+}
+
+#location{
+    font-size: 50px;
+    border-radius: 50px;
+    background: none;
+    padding-left: 30px;
+}
+h1{
+    font-size: 100px;
+}
+#goto{
+    font-size: 50px;
+    border-radius: 50px;
+    margin-top: 20px;
+    background-color: rgb(181, 189, 226);
+}
+#second{
+    display: none;
+}
+#error{
+    font-size: 100px;
+}
+#thest,#weather{
+    font-size: 50px;
+    padding: 20px;
+}
+#temp_c,#temp_f{
+    font-size: 25px;
+}
+#iconw{
+    width: 200px;
+
+}
+#inp{
+    margin-top: 100px;
+}
